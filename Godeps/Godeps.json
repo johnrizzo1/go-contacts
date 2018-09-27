@@ -1,0 +1,59 @@
+{
+	"ImportPath": "go-contacts",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v3.2.0-4-g3af4c74",
+			"Rev": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.6.2-9-g9e1f595",
+			"Rev": "9e1f5955c0d22b55d9e20d6faa28589f83b2faca"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Comment": "v1.9.1-31-gf6260a0",
+			"Rev": "f6260a00852946a10a57e8bb9f505f19bc9389b7"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm/dialects/postgres",
+			"Comment": "v1.9.1-31-gf6260a0",
+			"Rev": "f6260a00852946a10a57e8bb9f505f19bc9389b7"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/inflection",
+			"Rev": "04140366298a54a039076d798123ffa108fff46c"
+		},
+		{
+			"ImportPath": "github.com/joho/godotenv",
+			"Comment": "v1.3.0-2-gc0b86d6",
+			"Rev": "c0b86d615e06d6fa5f869364d68f774ba49a86e3"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "v1.0.0",
+			"Rev": "4ded0e9383f75c197b3a2aaa6d590ac52df6fd79"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/hstore",
+			"Comment": "v1.0.0",
+			"Rev": "4ded0e9383f75c197b3a2aaa6d590ac52df6fd79"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "v1.0.0",
+			"Rev": "4ded0e9383f75c197b3a2aaa6d590ac52df6fd79"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/bcrypt",
+			"Rev": "5295e8364332db77d75fce11f1d19c053919a9c9"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/blowfish",
+			"Rev": "5295e8364332db77d75fce11f1d19c053919a9c9"
+		}
+	]
+}
